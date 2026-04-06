@@ -23,22 +23,22 @@ CollabCrew is heavily inspired by the modern UI and architecture of Upwork. It p
 </div>
 
 <div align="center">
-  <img src="assets/job-feed.png" alt="Freelancer Job Feed" width="800"/>
-  <p><em>Robust Job Feed with dynamic querying and real-time updates</em></p>
-</div>
-
-<div align="center">
   <img src="assets/client-dashboard.png" alt="Client Job Dashboard" width="800"/>
-  <p><em>Client Dashboard for managing postings and reviewing proposals</em></p>
+  <p><em><strong>Client View:</strong> Dashboard for tracking total postings, proposals received, and active contracts</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/proposal.png" alt="Submitting a Proposal" width="800"/>
-  <p><em>Detailed Proposal Submission System</em></p>
+  <img src="assets/freelancer-dashboard.png" alt="Freelancer Job Dashboard" width="800"/>
+  <p><em><strong>Freelancer View:</strong> Dashboard tracking total bids, active projects, and job recommendations</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/messaging.png" alt="Real-time Messaging" width="800"/>
+  <img src="assets/job-feed.png" alt="Freelancer Job Feed" width="800"/>
+  <p><em>Robust Job/Talent Feed with dynamic querying, categorization, and experience filters</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/messages.png" alt="Real-time Messaging" width="800"/>
   <p><em>Secure direct messaging between Client and Hired Freelancer</em></p>
 </div>
 
