@@ -1,0 +1,7 @@
+{
+    "name": "harsh11271/collab-crew",
+    "description": "Professional Freelance Marketplace",
+    "require": {
+        "php": ">=8.1"
+    }
+}

@@ -42,3 +42,11 @@ CollabCrew is a fully-featured, two-sided freelance talent marketplace built nat
 
 ## ⚙️ How to Run Locally 
 Please refer to the detailed `STARTUP_GUIDE.md` file included in this repository for step-by-step instructions on running this application on a local development server like XAMPP.
+
+## 🚀 Deployment to Railway
+This project is configured for automated deployment to [Railway.app](https://railway.app).
+
+1.  **Branch Selection**: Connect your GitHub repository to Railway and select the `deployment` branch.
+2.  **Add MySQL**: Add a MySQL service to your Railway project.
+3.  **Variables**: Link the MySQL service variables to your web service.
+4.  **Database Import**: Import the `database.sql` file into the Railway MySQL instance via the dashboard.
