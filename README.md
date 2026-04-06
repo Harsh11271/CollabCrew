@@ -18,6 +18,11 @@ CollabCrew is heavily inspired by the modern UI and architecture of Upwork. It p
 ## 📸 Platform Previews
 
 <div align="center">
+  <img src="assets/landing-page.png" alt="CollabCrew Landing Page" width="800"/>
+  <p><em>Modern, responsive landing page designed to attract top talent and clients</em></p>
+</div>
+
+<div align="center">
   <img src="assets/job-feed.png" alt="Freelancer Job Feed" width="800"/>
   <p><em>Robust Job Feed with dynamic querying and real-time updates</em></p>
 </div>
