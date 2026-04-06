@@ -1,6 +1,6 @@
-# UpClone: A Professional Freelance Marketplace
+# CollabCrew: A Professional Freelance Marketplace
 
-UpClone is a fully-featured, two-sided freelance talent marketplace built natively in PHP and MySQL. Heavily inspired by the modern UI and architecture of Upwork, it provides a seamless ecosystem for **Clients** to post jobs and hire talent, and **Freelancers** to bid on projects and build their professional reputation.
+CollabCrew is a fully-featured, two-sided freelance talent marketplace built natively in PHP and MySQL. Heavily inspired by the modern UI and architecture of Upwork, it provides a seamless ecosystem for **Clients** to post jobs and hire talent, and **Freelancers** to bid on projects and build their professional reputation.
 
 ## 🚀 Key Features
 

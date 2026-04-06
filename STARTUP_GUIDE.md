@@ -1,6 +1,6 @@
 # Startup & Installation Guide
 
-This guide will walk you through setting up **UpClone (My Project)** on your local Windows machine using XAMPP.
+This guide will walk you through setting up **CollabCrew** on your local Windows machine using XAMPP.
 
 ## Prerequisites
 - Download and install [XAMPP for Windows](https://www.apachefriends.org/download.html).
@@ -22,20 +22,20 @@ Because the database architecture is highly relational (managing users, projects
 2. **Important:** If you have an old database named `marketplace_db` from a previous version, select it and **Drop** (delete) all the tables. If you don't have one, create a new database named `marketplace_db`.
 3. Select the `marketplace_db` database.
 4. Click on the **Import** tab at the top of the screen.
-5. Click **Choose File** and locate the `database.sql` file inside your project folder (`My_Project/database.sql`).
+5. Click **Choose File** and locate the `database.sql` file inside your project folder (`CollabCrew/database.sql`).
 6. Scroll down and click **Import** (or **Go**). 
 7. You should see a green success message, verifying that all 5 tables (`users`, `projects`, `proposals`, `messages`, `reviews`) have been constructed with their foreign keys intact.
 
 ---
 
 ## Step 3: Connect & Launch the Application
-1. Ensure this entire project folder (`My_Project`) is placed correctly inside the XAMPP public directory (usually `C:\xampp\htdocs\My_Project` or `D:\XAMPP\Xampp\htdocs\My_Project`).
+1. Ensure this entire project folder (`CollabCrew`) is placed correctly inside the XAMPP public directory (usually `C:\xampp\htdocs\CollabCrew` or `D:\XAMPP\Xampp\htdocs\CollabCrew`).
 2. Open the file `config/db.php` in a text editor.
 3. Ensure line 5 points to your database correctly:
    ```php
    $dbname = 'marketplace_db';
    ```
-4. Open a new web browser tab and navigate to: [http://localhost/My_Project](http://localhost/My_Project)
+4. Open a new web browser tab and navigate to: [http://localhost/CollabCrew](http://localhost/CollabCrew)
 
 ---
 
